@@ -1,0 +1,8 @@
+name: InventoryBuilder
+version: '1.0'
+main: de.phoenixrpg.inventorybuilder.InventoryBuilder
+api-version: '1.20'
+commands:
+  inventorybuilder:
+    aliases:
+      - ib
